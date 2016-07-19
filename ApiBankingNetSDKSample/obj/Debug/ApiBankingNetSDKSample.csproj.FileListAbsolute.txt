@@ -1,0 +1,8 @@
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\bin\Debug\ApiBankingNetSDKSample.exe.config
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\bin\Debug\ApiBankingNetSDKSample.exe
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\bin\Debug\ApiBankingNetSDKSample.pdb
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\bin\Debug\APIBanking.dll
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\obj\Debug\ApiBankingNetSDKSample.csprojResolveAssemblyReference.cache
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\obj\Debug\ApiBankingNetSDKSample.exe
+Z:\code\dotnet\ApiBankingNetSDKSample\ApiBankingNetSDKSample\obj\Debug\ApiBankingNetSDKSample.pdb
